@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(int[] args) {
+    public static void main(String[] args) {
         Post post = new Post();
         post.name = "Иван";
         post.surname = "Иванов";
